@@ -8,13 +8,13 @@
    <p align="center">
 
         <a href="https://github.com/F4stZ4p/Naoko-Documentation">
-            <img src="https://img.shields.io/badge/Pull-Requests%20welcome-170041.svg"/>
+            <img src="https://img.shields.io/badge/Pull%20Requests-welcome-170041.svg"/>
         </a>
         <a href="https://patreon.com/F4stZ4p">
             <img src="https://img.shields.io/badge/Donate-on%20Patreon-F96854.svg"/>
         </a>
         <a href="https://github.com/F4stZ4p/Naoko-Documentation">
-            <img src="https://img.shields.io/badge/Documentation-Passing%20no-FF0000.svg"/>
+            <img src="https://img.shields.io/badge/Documentation%20Passing-no-FF0000.svg"/>
         </a>
 
     </p>
